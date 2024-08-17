@@ -1,0 +1,5 @@
+export { default as SelectCountry } from "./SelectCountry"
+export { default as SelectCity } from "./SelectCity"
+export { default as SelectUniversity } from "./SelectUniversity"
+export { default as SelectMajor } from "./SelectMajor"
+export { default as SelectBatch } from "./SelectBatch"

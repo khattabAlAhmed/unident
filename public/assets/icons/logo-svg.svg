@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 136 36" width="136" height="36">
+	<title>logo-svg</title>
+	<defs>
+		<image  width="31" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAWCAMAAAAPf7fDAAAAAXNSR0IB2cksfwAAAdRQTFRF6U1N6E1N6UxOAAAA6k1N6E1N6E1N6ExN6E1N6UxO6UxO6UxN6UxO6U1N6k1N6U1O6U1O6k1N6U1O6U1O6UxO6kxM6U1O6UxO6UtN6U1N6UxO6U1P6U1O6k1N6U1N60xM6ktO6ExO6UxO6UxO6ExM6U5O6ExN6E1O6U1O6E1N6ExN6U1O6UxN7UlI6ExN6UlJ6UxO6U1O6UxM6E1O6ExO601M6U1O6ExN6kxN6U1O6U1O6ExN6U1O6U1O6U1O6U1O6E1O6UxN6EZG6U1O6UxM6U1O6UxO6k1N6ExN6kxM6U1O6U1O6U1N6U1O/wAA6k1N6UxN6UxM6UxN6U1O6UxN6U1N6UxM6k1N6UxM6U1N6U1O6ExN6UxO6ExN6UxO/1VV7EtM6EtO6ExM7E1N6U1N6UxO6U1O8k1N6kpM6ExN6U1P6U1O6ExN6UxO6U1O6ExN6UxO6U1O6U1O6U1O6U1O6U1O6UxN6U1N6U1O6ExO6U5O6U1N6U1O6U1O6UxO6EtN6EtN6U1O6U1O6E1O6U1O6U1N6U1O6U1O6U1O6UxN6EtO609O6U1O6E1O6UxN6UxN6U1O6U1N6kxN6U1N6U1P6U1O6U1P6UxO6UxO6E1N6UxN7UlJvGhv4gAAAJx0Uk5TdqZqAC+zwrOhk3xLIAej/7Ir69l5D/amNqOy/70hpDA8YpHWjwEX//ovHNuwBI8CiNcXso817C0r/fg58P4/8v4/Bvc4orUsjkTnKJDOADODBp/LD2weWWs26Ygx0ioABj9LBR1b8QsLv/7fpXiAwOnSv8Td9X8j4HsGTbv0+RIdcMr588Lu2rR4JgMgN2N3cloyGy8zMzItJRQCfw9JbgAAAWNJREFUeJx9kk0oxFEUxc/JlDRmLGQxCymRBSkaNBGpodRk42uBksU0OxvCYnYWFAs2NkpKIlkIG7JSNhamJv8ym0HyEUnNvxGlvPse04wZbr267/zeOfe9egQBqiVFafiBfEolteQWKWG4m5/4KQf58h+XkCeFPCrG+ZjNC224eJfDX0S5B5/VAaXT7bIzeUlcdeVMOh/gYeyXv8A2HKjiLVDK7PyyC93XMC4xmldE0njludnUxyQkw98QS+NotFBteMb7vvMBXxS1Oean/C0R1P19P7S9WfCSHZaNpmMj+c8U9x2ZTecp0EwGToBWHmgp8Koe0r6n+24qk5/sOwS8xTta672xgK5t3feLJ7DJoauoHOY6hnkpo3vWgBFy9x0Y4ApD3AAG9YfgqhhH9YfZvweCXADzxrmMnBV0cE5xTJFL2XQssRiegXCEVfS8kiZ4vWXgpEyblk44ZpkqrekK6ZNfpD1mcYgiz5AAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 45px;fill: #ffffff;font-weight: 800;font-family: "Inter-ExtraBold", "Inter" } 
+	</style>
+	<use id="Folder 1 copy" href="#img1" x="0" y="7"/>
+	<text id="Unident" style="transform: matrix(.556,0,0,.556,37.889,27.444)" >
+		<tspan x="0" y="0" class="t0">U</tspan><tspan  y="0" class="t0">n</tspan><tspan  y="0" class="t0">i</tspan><tspan  y="0" class="t0">d</tspan><tspan  y="0" class="t0">e</tspan><tspan  y="0" class="t0">n</tspan><tspan  y="0" class="t0">t
+</tspan>
+	</text>
+</svg>
